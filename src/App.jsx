@@ -257,6 +257,13 @@ const App = () => {
               image: "transfer.jpg",
               link: "https://paytm-1-2e6x.onrender.com",
             },
+            {
+              name: "NoteAI",
+              desc: "Summarize our notes using Google Gemini.",
+              tags: ["Node.js","MongoDB","Google authentication"],
+              image: "Noteai.jpg",
+              link: "https://noteai-1-wgj8.onrender.com",
+            },
           ].map((project, i) => (
             <a
               key={i}
