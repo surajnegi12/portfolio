@@ -261,7 +261,7 @@ const App = () => {
               name: "NoteAI",
               desc: "Summarize our notes using Google Gemini.",
               tags: ["Node.js","MongoDB","Google authentication"],
-              image: "Noteai.png",
+              image: "noteAi.jpg",
               link: "https://noteai-1-wgj8.onrender.com",
             },
           ].map((project, i) => (
